@@ -1,2 +1,3 @@
- git is a new distributed version control system.
- git is a free software.
+ 这是基于matlab光场工具包的一个小函数
+ 使得用户不需要再单独一行一行输入matlab命令
+ 
